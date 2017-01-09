@@ -1,10 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "Amazon Smile Auto Redirect",
+  "name": "Amazon Smile Redirect",
   "version": "1.0",
   "minimum_chrome_version": "23",
   "icons": {
-    "16": "icon_16.png"
+    "16": "icon_16.png",
+    "48": "icon_48.png",
+    "128": "icon_128.png"
   },
   "background": {
     "scripts": ["main.js"]
